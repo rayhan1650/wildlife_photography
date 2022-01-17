@@ -15,14 +15,14 @@
 
 /* Typography */
 
-@import url("https://fonts.googleapis.com/css2?family=Inter&display=swap");
+/* @import url("https://fonts.googleapis.com/css2?family=Inter&display=swap"); */
 
 html {
   font-size: 62.5%;
 }
 
 body {
-  font-family: "Inter", sans-serif;
+  /* font-family: "Inter", sans-serif; */
   font-size: 1.6rem;
   font-weight: 500;
   color: var(--color-headings);
